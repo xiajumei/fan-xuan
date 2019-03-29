@@ -1,0 +1,353 @@
+*{
+	list-style: none;
+}
+.jk{
+	position: relative;
+	margin: 0px;
+	padding:0px ;
+	
+	}
+a{
+	text-decoration: none;
+	margin: 20px;
+	float: right;
+	color: #000000;
+	font-weight: bold;
+	font-size:20px ;
+	
+	
+}
+a:hover{
+	color:gray;
+}
+
+ h1{
+ font-size:60px ;
+border-left: 6px solid orangered;
+}
+button{
+	border: 1px solid orangered;
+	font-weight: bold;
+	width: 100px;
+     height: 40px;
+	color: orangered;
+	font-size: 15px;
+	float: right;
+	margin-top: -100px;
+	border-radius: 10%;
+	background: papayawhip;
+	cursor: pointer;
+
+}
+.jk3 li{
+	
+	margin:20px ;
+	float: left;
+	font-size:20px ;
+	font-weight: bold;
+	color: grey;
+}
+.jk3 ul{
+	margin-left:-51px ;
+	
+}
+.jk3 ul  a{
+	margin-top: 0px;
+	color: gray;
+}
+.jk3 ul a:hover{
+	color: orangered;
+}
+.jk3 ul  .all-course span{
+    border: 2px solid orangered;
+     color: orangered;
+    padding: 5px 10px;
+    border-radius: 20px; 
+    cursor: pointer;
+}
+ .jk4{
+ 	float:left ;
+
+ }
+ .jk5{
+ 	
+ 	
+	float: left;
+	font-size:20px ;
+	font-weight: bold;
+	color: grey;
+	line-height: 60px;
+
+ }
+ .jk5 dl{
+	float: left;
+	margin: 0px;	
+}
+
+.jk5 dl dt{
+	float: left;
+	padding: 0px ;
+	margin-left: 40px;
+}
+.jk5 dl a{
+	margin-top:0px ;
+	color: gray;
+}
+.jk5 dl a:hover{
+	color: orangered;
+}
+  .all{
+  	background-color: papayawhip;
+  	}
+.zong{
+	width: 1080px;
+	margin: 0px auto;
+	
+}
+.jk5 dl #jk1{
+	margin-left: 8px;
+}
+.jk5 dl #jk2{
+	float: left;
+	margin-left: 380px;
+	cursor: pointer;
+}
+ .jk5 dl #jk3 a{
+	color: orangered;
+}
+.content{
+	width: 1100px;
+	height: 257px;
+	background: white;
+	margin: 0 auto;
+	margin-top:250px;
+
+	}
+	.content-border{
+		
+		width: 470px;
+		height: 257px;
+		text-align: center;
+	
+		
+
+		
+	}
+	 .contet-img img{
+		width:440px ;
+		height: 210px;
+		margin-top: 22px;
+		
+	}
+	.contet-img h3{
+		
+		width: 82px;
+		height: 22px;
+		font-size:14px;
+		color:white;
+		border-top-right-radius: 5px;
+		border-bottom-right-radius: 5px;
+		position: absolute;
+		line-height: 20px;
+		margin-top: 35px;
+		background-color: greenyellow;
+	
+	}
+	 .middle{
+		width:600px ;
+		height: 220px;
+		
+	float: right;
+	margin-top: -230px;
+	
+	}
+	.middle .content-right h6{
+		margin: 0px;
+	padding: 0px;
+    line-height: 24px;
+    font-size: 24px;
+    font-weight: 400;
+    color: #343535;
+    cursor: pointer;
+	}
+.middle .content-right p{
+	
+	overflow: hidden;
+    position: relative;
+    padding-right: 230px;
+    line-height: 14px;
+    word-break: keep-all;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    font-size: 14px;
+    font-weight: 400;
+    color: #888;
+
+}
+.middle .content-right{
+	margin-top: 5px;
+	height: 15px;
+	
+}
+.middle .content-right span{
+    color: #ababab;
+    float: right;
+    margin-top:-30px ;
+    margin-right:40px;
+}
+.column-row .icon{
+	background: url(../img/icon.png) no-repeat;
+	width: 19px;
+	height: 15px;
+	margin-top: 60px;
+	float:left
+	
+}
+ 
+}
+.middle .icon-img p{
+	
+	float: left;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    overflow: hidden;
+    max-width: 100%; 
+}
+ 
+.l{
+	float: left;
+	padding-left: 20px;
+}
+.r{
+	float: right;
+	}
+	
+	.content ul{
+		margin-top: -30px;
+	padding-top: 20px;
+	margin-left: -20px;
+	line-height: 15px;
+	padding-right: 100px;
+	font-size: 12px;
+	color: gray;
+	cursor: pointer;
+}
+.content ul p:hover{
+	color: orangered;
+}
+.content ul span{
+	color: orangered;
+	}
+.content-buttom .r {
+	display: block;
+	margin-top: -120px;
+	margin-right:75px ;
+	}
+	h3{
+		
+	margin-top: 10px;
+    font-size: 22px;
+    font-weight: 400;
+    color: #f6751f;
+    float: left;
+    margin-left:0px;
+    }
+    .discount .deadline span{
+    	font-size: 12px;
+    	color: gray;
+    	float: right;
+    	margin-left: 17px;
+    	margin-top: 9px;
+    	}
+    	.buy{
+    		width: 120px;
+    		height:36px ;
+    		border: 1px solid orangered;
+    		float: right;
+    		margin-right: 100px;
+    		border-radius: 10px;
+    		text-align: center;
+    		line-height: 0px;
+    		background: orangered;
+    		}
+
+  .buy .order{
+		color: white;
+		font-weight: 400;
+		width: 100px;
+		height: 50px;
+		margin-right: 10px;
+		
+		
+		}
+		.buy:hover{
+			background: #ff8f44;
+		}
+		.content{
+			margin-bottom:-199px;
+			}
+			.loading p{
+				width: 177px;
+				height: 26px;
+				border: 1px solid gray;
+				float: left;
+				margin-top: 44px;
+				margin-left: 627px;
+				color: gray;
+				text-align: center;
+				border-radius: 5px ;
+				background-color: #f7f8f8;;
+				}
+				
+			.bt{
+				background-color: #212326;
+				height: 335px;
+				margin-top: 250px;
+				}	
+			.bt-last{
+				width: 1351px;
+		height: 335px;
+				margin: 0 auto;
+				
+				}
+.a{
+	padding-top: 5rem;
+    padding-bottom: 2.5rem;
+    border-bottom: 1px solid #424242;
+        box-sizing: border-box;
+   
+	}
+	
+		
+	.a a{
+		    font-size: 1.1rem;
+    padding-left: 120px;
+    float: left;
+     color: #fff;
+     margin-top: -20px;
+    
+    text-decoration: none;
+    
+    
+    
+    }
+    .z{
+    	p-left: 0;
+    }
+    .b p{
+    	font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.5;
+    padding-top: 0;
+    padding-bottom: 0;
+    	float: left;
+    	margin-left: 100px;
+    	color: #fff;
+    	}
+    	.copyright{
+    		float:left;
+    		margin-left:300px ;
+    		color: #fff;
+    		float: left;
+    		margin-left: 140px;
+    		}
